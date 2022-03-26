@@ -23,4 +23,4 @@ Data Exploration results :
 6. Sale Price of Properties range between 50 to 54278060 with an average sale price of 327226.
 7. Total count of Properties sold as vacant were 4675.
 
-For Project Explanation Click on the youtube link :   
+For Project Explanation Click on the youtube link : https://youtu.be/p0zM7K1Zq6c   
