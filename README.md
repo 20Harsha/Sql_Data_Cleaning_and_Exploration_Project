@@ -1,4 +1,4 @@
-# Sql_Data_Cleaning_and_Exploration_Project
+# Nashvile Housing Data Cleaning & exploration using SQL.
 Using Sql to clean Nashville housing data and explore data to get interesting insights
 
 ## Following are the observations and task performed on this project : 
